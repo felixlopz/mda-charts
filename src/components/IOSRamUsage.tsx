@@ -56,9 +56,9 @@ const data: ChartData<"line"> = {
   datasets: [
     {
       data: IOSRamUsageData,
-      label: "Android",
-      borderColor: "rgb(26, 208, 72)",
-      backgroundColor: "rgb(6, 133, 38)",
+      label: "iOS",
+      borderColor: "rgb(255, 99, 132)",
+      backgroundColor: "rgba(255, 99, 132, 0.5)",
     },
   ],
 };
