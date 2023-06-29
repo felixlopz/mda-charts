@@ -46,7 +46,7 @@ const options = {
     },
     title: {
       display: true,
-      text: "Utilización de memoria ram iOS MB",
+      text: "Utilización de memoria ram iOS (MB)",
     },
   },
 };

@@ -55,7 +55,7 @@ const options = {
     },
     title: {
       display: true,
-      text: "Tiempo de respuesta procesamiento de imagenes",
+      text: "Tiempo de respuesta procesamiento de imagenes (ms)",
     },
   },
 };

@@ -54,7 +54,7 @@ const options = {
     },
     title: {
       display: true,
-      text: "Tiempo de respuesta del procesamiento de la predicción",
+      text: "Tiempo de respuesta del procesamiento de la predicción (ms)",
     },
   },
 };
